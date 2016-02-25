@@ -5,6 +5,7 @@
   </Configs>
   <NewExtensions>
     <extension index="0">extensions\Movement Engine</extension>
+    <extension index="1">extensions\Platformer Movement System</extension>
   </NewExtensions>
   <sounds name="sound"/>
   <sprites name="sprites">
@@ -12,6 +13,8 @@
     <sprite>sprites\spr_solid</sprite>
     <sprite>sprites\spr_solid_slope</sprite>
     <sprite>sprites\spr_smooth_slope</sprite>
+    <sprite>sprites\spr_solid_new</sprite>
+    <sprite>sprites\spr_player_new</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -52,6 +55,9 @@
         <script>scripts\animation_hit_frame.gml</script>
       </scripts>
     </scripts>
+    <script>scripts\scr_pms_create.gml</script>
+    <script>scripts\scr_pms_move_x.gml</script>
+    <script>scripts\scr_pms_move_y.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\Game</object>
@@ -59,8 +65,11 @@
     <object>objects\Solid</object>
     <object>objects\Slope</object>
     <object>objects\Mountain</object>
+    <object>objects\obj_solid</object>
+    <object>objects\obj_player</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\rm_example</room>
     <room>rooms\r_test</room>
   </rooms>
   <help>
