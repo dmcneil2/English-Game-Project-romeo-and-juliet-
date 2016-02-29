@@ -335,7 +335,6 @@
   <rooms name="rooms">
     <room>rooms\htme_rom_menu</room>
     <room>rooms\rm_example</room>
-    <room>rooms\r_test</room>
     <rooms name="htme_demo">
       <room>rooms\htme_rom_connecting</room>
       <room>rooms\htme_rom_demo</room>
