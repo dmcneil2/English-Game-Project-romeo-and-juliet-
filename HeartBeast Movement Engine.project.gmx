@@ -331,6 +331,7 @@
     <objects name="udphp_demo">
       <object>objects\obj_udphphtme_lobby</object>
     </objects>
+    <object>objects\obj_Door</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\htme_rom_menu</room>
@@ -344,6 +345,7 @@
     <rooms name="udphp_demo">
       <room>rooms\udphhtme_lobby</room>
     </rooms>
+    <room>rooms\Game_Room</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
