@@ -59,8 +59,10 @@
       <sprite>sprites\htme_spr_wall</sprite>
       <sprite>sprites\htme_spr_player</sprite>
       <sprite>sprites\htme_spr_door</sprite>
+      <sprite>sprites\Spr_WInner</sprite>
       <sprite>sprites\htme_logo</sprite>
     </sprites>
+    <sprite>sprites\spr_Capulet</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -332,6 +334,51 @@
       <object>objects\obj_udphphtme_lobby</object>
     </objects>
     <object>objects\obj_Door</object>
+    <object>objects\Door_Winners</object>
+    <object>objects\Door_Room1</object>
+    <object>objects\Door_Room2</object>
+    <object>objects\Door_Room3</object>
+    <object>objects\Door_Room4</object>
+    <object>objects\Door_Room5</object>
+    <object>objects\Door_Room6</object>
+    <object>objects\Door_Room7</object>
+    <object>objects\Door_Room8</object>
+    <object>objects\Door_Room9</object>
+    <object>objects\Door_Room10</object>
+    <object>objects\Door_Room11</object>
+    <object>objects\Door_Room12</object>
+    <object>objects\Door_Room13</object>
+    <object>objects\Door_Room14</object>
+    <object>objects\Door_Room15</object>
+    <object>objects\Door_Room16</object>
+    <object>objects\Door_Room17</object>
+    <object>objects\Door_Room19</object>
+    <object>objects\Door_MainRoom</object>
+    <object>objects\Door20</object>
+    <object>objects\Door21</object>
+    <object>objects\Door22</object>
+    <object>objects\Door23</object>
+    <object>objects\Door_24</object>
+    <object>objects\Door25</object>
+    <object>objects\Door26</object>
+    <object>objects\Door27</object>
+    <object>objects\Door28</object>
+    <object>objects\Door29</object>
+    <object>objects\Door30</object>
+    <object>objects\Door31</object>
+    <object>objects\Door32</object>
+    <object>objects\Door33</object>
+    <object>objects\Door34</object>
+    <object>objects\Door35</object>
+    <object>objects\Door36</object>
+    <object>objects\Door37</object>
+    <object>objects\Door38</object>
+    <object>objects\Door39</object>
+    <object>objects\Door40</object>
+    <object>objects\Door18</object>
+    <object>objects\Victory__</object>
+    <object>objects\Capulet</object>
+    <object>objects\Door_Burglett</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\htme_rom_menu</room>
@@ -346,6 +393,51 @@
       <room>rooms\udphhtme_lobby</room>
     </rooms>
     <room>rooms\Game_Room</room>
+    <room>rooms\Game_Room1</room>
+    <room>rooms\Game_Room2</room>
+    <room>rooms\Game_Room3</room>
+    <room>rooms\Game_Room4</room>
+    <room>rooms\Game_Room5</room>
+    <room>rooms\Game_Room6</room>
+    <room>rooms\Game_Room7</room>
+    <room>rooms\Game_Room8</room>
+    <room>rooms\Game_Room9</room>
+    <room>rooms\Game_Room10</room>
+    <room>rooms\Game_Room11</room>
+    <room>rooms\Game_Room_12</room>
+    <room>rooms\Game_Room13</room>
+    <room>rooms\Game_Room14</room>
+    <room>rooms\Game_Room15</room>
+    <room>rooms\Game_Room16</room>
+    <room>rooms\Game_Room17</room>
+    <room>rooms\Game_Room19</room>
+    <room>rooms\VictoryRoom</room>
+    <room>rooms\Game_Room31</room>
+    <room>rooms\Game_Room32</room>
+    <room>rooms\Game_Room34</room>
+    <room>rooms\Room37</room>
+    <room>rooms\Room38</room>
+    <room>rooms\Room39</room>
+    <rooms name="Rooms">
+      <room>rooms\Game_Room26</room>
+      <room>rooms\Game_Room20</room>
+      <room>rooms\Game_Room18</room>
+      <room>rooms\Game_Room21</room>
+      <room>rooms\Game_Room22</room>
+      <room>rooms\Game_Room24</room>
+      <room>rooms\Game_Room25</room>
+      <room>rooms\Game_Room23</room>
+      <room>rooms\Game_Room29</room>
+      <room>rooms\Game_Room33</room>
+      <room>rooms\Game_Room35</room>
+      <room>rooms\Room36</room>
+      <room>rooms\Game_Room27</room>
+      <room>rooms\Game_Room30</room>
+      <room>rooms\Game_Room28</room>
+      <room>rooms\Room40</room>
+    </rooms>
+    <room>rooms\Room18</room>
+    <room>rooms\Burglett_exe</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
