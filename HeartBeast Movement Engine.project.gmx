@@ -302,6 +302,18 @@
     <scripts name="htme_demo">
       <script>scripts\totro.gml</script>
     </scripts>
+    <scripts name="Room_Scripts">
+      <script>scripts\Scr_GoTo_Gameroom1.gml</script>
+      <script>scripts\Scr_GoTo_Gameroom2.gml</script>
+      <script>scripts\Scr_GoTo_Gameroom3.gml</script>
+      <script>scripts\Scr_GoTo_Gameroom4.gml</script>
+      <script>scripts\Scr_GoTo_Gameroom5.gml</script>
+      <script>scripts\Scr_GoTo_Gameroom6.gml</script>
+      <script>scripts\Scr_GoTo_Gameroom7.gml</script>
+      <script>scripts\Scr_GoTo_Gameroom8.gml</script>
+      <script>scripts\Scr_GoTo_Gameroom9.gml</script>
+      <script>scripts\Scr_GoTo_Gameroom10.gml</script>
+    </scripts>
   </scripts>
   <objects name="objects">
     <object>objects\Game</object>
