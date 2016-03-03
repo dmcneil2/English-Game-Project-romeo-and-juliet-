@@ -8,7 +8,7 @@
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
-    <event eventtype="3" enumb="0">
+    <event eventtype="4" ename="htme_obj_player">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -25,11 +25,20 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>///Invoke the right room script
-if (position_meeting(x,y,Player)) then
-      if (keyboard_check_pressed(vk_up)) then 
-            Scr_GoTo_Gameroom19();
+            <string>///CHECK IF DOOR ENTERED
 
+/** This is the script to change room. It's not that important.
+  * However, it checks if there's a player collision and if that player is local,
+  * that might be useful for you
+  */
+
+var isLocal;
+with (other) {isLocal = htme_isLocal();}
+
+if (isLocal &amp;&amp; keyboard_check_pressed(vk_up)) {
+    var dest = Game_Room19;
+    room_goto(dest);
+}
 </string>
           </argument>
         </arguments>

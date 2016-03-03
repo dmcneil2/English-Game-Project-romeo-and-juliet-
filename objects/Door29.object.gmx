@@ -36,7 +36,7 @@ var isLocal;
 with (other) {isLocal = htme_isLocal();}
 
 if (isLocal &amp;&amp; keyboard_check_pressed(vk_up)) {
-    var dest = Game_Room40;
+    var dest = Game_Room29;
     room_goto(dest);
 }
 </string>

@@ -302,50 +302,6 @@
     <scripts name="htme_demo">
       <script>scripts\totro.gml</script>
     </scripts>
-    <scripts name="Room_Scripts">
-      <script>scripts\Scr_GoTo_Gameroom1.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom2.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom3.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom4.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom5.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom6.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom7.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom8.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom9.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom10.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom11.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom12.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom13.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom14.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom15.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom16.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom17.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom18.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom19.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom20.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom21.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom22.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom23.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom24.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom25.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom26.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom27.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom28.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom29.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom30.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom31.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom32.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom33.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom34.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom35.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom36.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom37.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom38.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom39.gml</script>
-      <script>scripts\Scr_GoTo_Gameroom40.gml</script>
-      <script>scripts\Scr_GoTo_VictoryRoom.gml</script>
-      <script>scripts\Scr_GoTo_BurgletteRoom.gml</script>
-    </scripts>
   </scripts>
   <objects name="objects">
     <object>objects\Game</object>
@@ -407,7 +363,7 @@
     <object>objects\Door26</object>
     <object>objects\Door27</object>
     <object>objects\Door28</object>
-    <object>objects\</object>
+    <object>objects\Door29</object>
     <object>objects\Door30</object>
     <object>objects\Door31</object>
     <object>objects\Door32</object>
@@ -429,14 +385,14 @@
     <room>rooms\rm_example</room>
     <rooms name="htme_demo">
       <room>rooms\htme_rom_connecting</room>
-      <room>rooms\htme_rom_demo</room>
+      <room>rooms\htme_rom_demo1</room>
       <room>rooms\htme_rom_demo2</room>
       <room>rooms\htme_lanlobby</room>
     </rooms>
     <rooms name="udphp_demo">
       <room>rooms\udphhtme_lobby</room>
     </rooms>
-    <room>rooms\Game_Room</room>
+    <room>rooms\htme_rom_demo</room>
     <room>rooms\Game_Room1</room>
     <room>rooms\Game_Room2</room>
     <room>rooms\Game_Room3</room>
