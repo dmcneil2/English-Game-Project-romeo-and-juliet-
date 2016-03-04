@@ -63,9 +63,42 @@
       <sprite>sprites\htme_logo</sprite>
     </sprites>
     <sprite>sprites\spr_Capulet</sprite>
+    <sprite>sprites\spr_Fire</sprite>
+    <sprite>sprites\spr_Burglett</sprite>
   </sprites>
-  <backgrounds name="background"/>
-  <paths name="paths"/>
+  <backgrounds name="background">
+    <background>background\Balcony</background>
+    <background>background\Church</background>
+    <background>background\Fountain</background>
+    <background>background\Beach</background>
+    <background>background\Grave</background>
+    <background>background\Mansion</background>
+    <background>background\beach2</background>
+    <background>background\beach3</background>
+    <background>background\beach3_0</background>
+    <background>background\mansion1</background>
+    <background>background\mansion2</background>
+    <background>background\mansion3</background>
+    <background>background\balcony1</background>
+    <background>background\balcony2</background>
+    <background>background\background14</background>
+    <background>background\background15</background>
+    <background>background\background16</background>
+    <background>background\background17</background>
+    <background>background\church2</background>
+    <background>background\church3</background>
+    <background>background\rain1</background>
+    <background>background\rain2</background>
+    <background>background\grave1</background>
+    <background>background\grave2</background>
+    <background>background\grave3</background>
+    <background>background\RIP</background>
+    <background>background\burglett</background>
+    <background>background\victory</background>
+  </backgrounds>
+  <paths name="paths">
+    <path>paths\path0</path>
+  </paths>
   <scripts name="scripts">
     <scripts name="Helper Scripts">
       <script>scripts\approach.gml</script>
@@ -379,7 +412,12 @@
     <object>objects\Victory__</object>
     <object>objects\Capulet</object>
     <object>objects\Door_Burglett</object>
+    <object>objects\Obj_Spike</object>
+    <object>objects\object66</object>
   </objects>
+  <timelines name="timelines">
+    <timeline>timelines\timeline0</timeline>
+  </timelines>
   <rooms name="rooms">
     <room>rooms\htme_rom_menu</room>
     <room>rooms\rm_example</room>
@@ -432,7 +470,7 @@
     <room>rooms\Game_Room37</room>
     <room>rooms\Game_Room38</room>
     <room>rooms\Game_Room39</room>
-    <room>rooms\Game_Room40</room>
+    <room>rooms\Room_40</room>
     <room>rooms\VictoryRoom</room>
     <room>rooms\Burglett_exe</room>
   </rooms>
