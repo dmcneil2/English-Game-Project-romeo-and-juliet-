@@ -38,11 +38,7 @@ draw_text(self.dbg_right-20,offs,str);
 if (self.dbgstate = vk_f2) draw_set_colour(self.dbgcolor);
 offs = offs + string_height(str);
 
-str = "PLAYERS (F3) #========#";
-if (self.dbgstate = vk_f3) draw_set_colour(self.dbgcolor_a);
-draw_text(self.dbg_right-20,offs,str);
-if (self.dbgstate = vk_f3) draw_set_colour(self.dbgcolor);
-offs = offs + string_height(str);
+
 
 str = "INVISIBLE INSTANCES (F4) #========#";
 if (self.dbgstate = vk_f4) draw_set_colour(self.dbgcolor_a);

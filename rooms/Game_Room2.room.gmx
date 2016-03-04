@@ -595,7 +595,6 @@
     <instance objName="Obj_Spike" x="1696" y="864" name="inst_A5D4E4FD" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Spike" x="1920" y="736" name="inst_887535ED" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Spike" x="1440" y="928" name="inst_77015752" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="Obj_Spike" x="1248" y="928" name="inst_4BD776C2" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="htme_obj_wall" x="992" y="320" name="inst_25A11580" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="-91"/>
     <instance objName="htme_obj_wall" x="864" y="320" name="inst_B2743225" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="htme_obj_wall" x="896" y="320" name="inst_9071E488" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

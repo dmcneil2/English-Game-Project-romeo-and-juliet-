@@ -57,7 +57,8 @@
     <sprite>sprites\spr_player_new</sprite>
     <sprites name="htme_demo">
       <sprite>sprites\htme_spr_wall</sprite>
-      <sprite>sprites\htme_spr_player</sprite>
+      <sprite>sprites\htme_spr_player_Right</sprite>
+      <sprite>sprites\htme_spr_player_Left</sprite>
       <sprite>sprites\htme_spr_door</sprite>
       <sprite>sprites\Spr_WInner</sprite>
       <sprite>sprites\htme_logo</sprite>
