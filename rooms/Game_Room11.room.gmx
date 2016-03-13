@@ -1886,7 +1886,7 @@
     <instance objName="htme_obj_wall" x="1888" y="320" name="inst_42BAD5FF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="htme_obj_wall" x="1920" y="320" name="inst_89821EAA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="htme_obj_wall" x="1920" y="288" name="inst_09CD6A17" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Door_MainRoom" x="1888" y="192" name="inst_5F8E89CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Door_MainRoom" x="1888" y="160" name="inst_5F8E89CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Spike" x="96" y="160" name="inst_0F89D9C0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Spike" x="352" y="64" name="inst_5AB78B4C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Spike" x="384" y="64" name="inst_69260F98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1897,15 +1897,14 @@
     <instance objName="Obj_Spike" x="768" y="224" name="inst_BECB992E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Spike" x="992" y="96" name="inst_974E7A57" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Spike" x="896" y="128" name="inst_804A26A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Obj_Spike" x="864" y="96" name="inst_24B5280F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Spike" x="1312" y="192" name="inst_9D931151" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Spike" x="1408" y="416" name="inst_3AB53C51" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Obj_Spike" x="1664" y="704" name="inst_43220E59" locked="0" code="" scaleX="4" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Spike" x="1696" y="320" name="inst_813F25FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Spike" x="1600" y="160" name="inst_A29B36BE" locked="0" code="" scaleX="2" scaleY="-5" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Spike" x="1728" y="224" name="inst_62566175" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Obj_Spike" x="1408" y="128" name="inst_E392424B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Obj_Spike" x="1056" y="64" name="inst_905CD3A8" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="Obj_Spike" x="1056" y="96" name="inst_905CD3A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Obj_Spike" x="1792" y="704" name="inst_B07EC308" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="Obj_Spike" x="1824" y="704" name="inst_075D0B41" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="" x="480" y="288" w="16" h="16" xo="0" yo="0" id="10000011" name="inst_3BB45D9D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
