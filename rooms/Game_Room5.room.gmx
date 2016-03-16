@@ -1235,7 +1235,7 @@
     <tile bgName="" x="0" y="64" w="16" h="16" xo="0" yo="0" id="10000004" name="inst_26D3E56B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="" x="0" y="0" w="16" h="16" xo="0" yo="0" id="10000005" name="inst_A4D7D5DE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
   </tiles>
-  <PhysicsWorld>-1</PhysicsWorld>
+  <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
   <PhysicsWorldLeft>0</PhysicsWorldLeft>
   <PhysicsWorldRight>1024</PhysicsWorldRight>

@@ -96,6 +96,7 @@
     <background>background\RIP</background>
     <background>background\burglett</background>
     <background>background\victory</background>
+    <background>background\bgrd_666</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\path0</path>
@@ -415,6 +416,7 @@
     <object>objects\Door_Burglett</object>
     <object>objects\Obj_Spike</object>
     <object>objects\object66</object>
+    <object>objects\object67</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline0</timeline>
